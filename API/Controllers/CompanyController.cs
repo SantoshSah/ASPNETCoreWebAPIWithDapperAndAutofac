@@ -3,7 +3,7 @@ using Microsoft.AspNetCore.Mvc;
 using Entities;
 using Repository.Interfaces;
 
-namespace ASP.NETCoreWebAPIWithDapperAndAutofac.API.Controllers
+namespace API.Controllers
 {
     [Produces("application/json")]
     [Route("api/Company")]
